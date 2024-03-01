@@ -1,0 +1,1926 @@
+{
+    "flights": [
+        {
+            "id": "FL1",
+            "airline": "Nepal Airlines",
+            "departureAirport": "Kathmandu TIA",
+            "arrivalAirport": "New York JFK",
+            "departureTime": "2024-02-21T08:00:00",
+            "arrivalTime": "2024-02-21T16:30:00",
+            "price": 900,
+            "availableSeats": 120
+        },
+        {
+            "id": "FL2",
+            "airline": "Emirates",
+            "departureAirport": "Dubai DXB",
+            "arrivalAirport": "London LHR",
+            "departureTime": "2024-02-22T10:00:00",
+            "arrivalTime": "2024-02-22T14:30:00",
+            "price": 800,
+            "availableSeats": 200
+        },
+        {
+            "id": "FL3",
+            "airline": "Air India",
+            "departureAirport": "Mumbai BOM",
+            "arrivalAirport": "Singapore SIN",
+            "departureTime": "2024-02-23T12:00:00",
+            "arrivalTime": "2024-02-23T18:30:00",
+            "price": 700,
+            "availableSeats": 150
+        },
+        {
+            "id": "FL4",
+            "airline": "Qatar Airways",
+            "departureAirport": "Doha DOH",
+            "arrivalAirport": "New York JFK",
+            "departureTime": "2024-02-24T09:00:00",
+            "arrivalTime": "2024-02-24T15:30:00",
+            "price": 1000,
+            "availableSeats": 100
+        },
+        {
+            "id": "FL5",
+            "airline": "Singapore Airlines",
+            "departureAirport": "Singapore SIN",
+            "arrivalAirport": "Sydney SYD",
+            "departureTime": "2024-02-25T11:00:00",
+            "arrivalTime": "2024-02-25T20:30:00",
+            "price": 1200,
+            "availableSeats": 180
+        },
+        {
+            "id": "FL6",
+            "airline": "Thai Airways",
+            "departureAirport": "Bangkok BKK",
+            "arrivalAirport": "Tokyo NRT",
+            "departureTime": "2024-02-26T08:30:00",
+            "arrivalTime": "2024-02-26T15:00:00",
+            "price": 850,
+            "availableSeats": 160
+        },
+        {
+            "id": "FL7",
+            "airline": "Lufthansa",
+            "departureAirport": "Frankfurt FRA",
+            "arrivalAirport": "New York JFK",
+            "departureTime": "2024-02-27T07:00:00",
+            "arrivalTime": "2024-02-27T13:30:00",
+            "price": 950,
+            "availableSeats": 120
+        },
+        {
+            "id": "FL8",
+            "airline": "British Airways",
+            "departureAirport": "London LHR",
+            "arrivalAirport": "Los Angeles LAX",
+            "departureTime": "2024-02-28T13:30:00",
+            "arrivalTime": "2024-02-28T21:00:00",
+            "price": 1100,
+            "availableSeats": 150
+        },
+        {
+            "id": "FL9",
+            "airline": "Cathay Pacific",
+            "departureAirport": "Hong Kong HKG",
+            "arrivalAirport": "New York JFK",
+            "departureTime": "2024-03-01T14:00:00",
+            "arrivalTime": "2024-03-01T21:30:00",
+            "price": 950,
+            "availableSeats": 130
+        },
+        {
+            "id": "FL10",
+            "airline": "Qantas",
+            "departureAirport": "Sydney SYD",
+            "arrivalAirport": "Los Angeles LAX",
+            "departureTime": "2024-03-02T12:30:00",
+            "arrivalTime": "2024-03-02T19:00:00",
+            "price": 1200,
+            "availableSeats": 170
+        },
+        {
+            "id": "FL11",
+            "airline": "ANA (All Nippon Airways)",
+            "departureAirport": "Tokyo NRT",
+            "arrivalAirport": "San Francisco SFO",
+            "departureTime": "2024-03-03T11:00:00",
+            "arrivalTime": "2024-03-03T18:30:00",
+            "price": 900,
+            "availableSeats": 140
+        },
+        {
+            "id": "FL12",
+            "airline": "Turkish Airlines",
+            "departureAirport": "Istanbul IST",
+            "arrivalAirport": "New York JFK",
+            "departureTime": "2024-03-04T10:30:00",
+            "arrivalTime": "2024-03-04T17:00:00",
+            "price": 1000,
+            "availableSeats": 110
+        },
+        {
+            "id": "FL13",
+            "airline": "Malaysia Airlines",
+            "departureAirport": "Kuala Lumpur KUL",
+            "arrivalAirport": "London LHR",
+            "departureTime": "2024-03-05T09:30:00",
+            "arrivalTime": "2024-03-05T15:00:00",
+            "price": 850,
+            "availableSeats": 160
+        },
+        {
+            "id": "FL14",
+            "airline": "Etihad Airways",
+            "departureAirport": "Abu Dhabi AUH",
+            "arrivalAirport": "New York JFK",
+            "departureTime": "2024-03-06T10:00:00",
+            "arrivalTime": "2024-03-06T16:30:00",
+            "price": 950,
+            "availableSeats": 120
+        },
+        {
+            "id": "FL15",
+            "airline": "Air New Zealand",
+            "departureAirport": "Auckland AKL",
+            "arrivalAirport": "Los Angeles LAX",
+            "departureTime": "2024-03-07T13:00:00",
+            "arrivalTime": "2024-03-07T21:30:00",
+            "price": 1300,
+            "availableSeats": 180
+        },
+        {
+            "id": "FL16",
+            "airline": "Swiss International Air Lines",
+            "departureAirport": "Zurich ZRH",
+            "arrivalAirport": "New York JFK",
+            "departureTime": "2024-03-08T12:00:00",
+            "arrivalTime": "2024-03-08T18:30:00",
+            "price": 1000,
+            "availableSeats": 140
+        },
+        {
+            "id": "FL17",
+            "airline": "Korean Air",
+            "departureAirport": "Seoul ICN",
+            "arrivalAirport": "Los Angeles LAX",
+            "departureTime": "2024-03-09T11:30:00",
+            "arrivalTime": "2024-03-09T19:00:00",
+            "price": 1100,
+            "availableSeats": 150
+        },
+        {
+            "id": "FL18",
+            "airline": "Air Canada",
+            "departureAirport": "Toronto YYZ",
+            "arrivalAirport": "London LHR",
+            "departureTime": "2024-03-10T10:30:00",
+            "arrivalTime": "2024-03-10T17:00:00",
+            "price": 900,
+            "availableSeats": 130
+        },
+        {
+            "id": "FL19",
+            "airline": "Saudi Arabian Airlines",
+            "departureAirport": "Riyadh RUH",
+            "arrivalAirport": "New York JFK",
+            "departureTime": "2024-03-11T09:00:00",
+            "arrivalTime": "2024-03-11T15:30:00",
+            "price": 1050,
+            "availableSeats": 120
+        },
+        {
+            "id": "FL20",
+            "airline": "South African Airways",
+            "departureAirport": "Johannesburg JNB",
+            "arrivalAirport": "New York JFK",
+            "departureTime": "2024-03-12T08:30:00",
+            "arrivalTime": "2024-03-12T15:00:00",
+            "price": 1000,
+            "availableSeats": 110
+        },
+        {
+            "id": "FL21",
+            "airline": "Gulf Air",
+            "departureAirport": "Manama BAH",
+            "arrivalAirport": "London LHR",
+            "departureTime": "2024-03-13T07:30:00",
+            "arrivalTime": "2024-03-13T14:00:00",
+            "price": 850,
+            "availableSeats": 140
+        },
+        {
+            "id": "FL22",
+            "airline": "Icelandair",
+            "departureAirport": "Reykjavik KEF",
+            "arrivalAirport": "New York JFK",
+            "departureTime": "2024-03-14T09:30:00",
+            "arrivalTime": "2024-03-14T16:00:00",
+            "price": 950,
+            "availableSeats": 120
+        },
+        {
+            "id": "FL23",
+            "airline": "Aeroflot",
+            "departureAirport": "Moscow SVO",
+            "arrivalAirport": "New York JFK",
+            "departureTime": "2024-03-15T10:00:00",
+            "arrivalTime": "2024-03-15T16:30:00",
+            "price": 900,
+            "availableSeats": 130
+        },
+        {
+            "id": "FL24",
+            "airline": "LATAM Airlines",
+            "departureAirport": "Santiago SCL",
+            "arrivalAirport": "New York JFK",
+            "departureTime": "2024-03-16T10:30:00",
+            "arrivalTime": "2024-03-16T17:00:00",
+            "price": 1000,
+            "availableSeats": 140
+        },
+        {
+            "id": "FL25",
+            "airline": "EgyptAir",
+            "departureAirport": "Cairo CAI",
+            "arrivalAirport": "New York JFK",
+            "departureTime": "2024-03-17T09:00:00",
+            "arrivalTime": "2024-03-17T15:30:00",
+            "price": 950,
+            "availableSeats": 120
+        }
+    ],
+    "hotels": [
+        {
+            "id": "HTL1",
+            "name": "Himalayan Paradise Resort",
+            "location": "Kathmandu, Nepal",
+            "price": 120,
+            "rating": 4.5,
+            "availableRooms": 50,
+            "rooms": 100,
+            "bathrooms": 150,
+            "swimmingPool": true,
+            "gym": true,
+            "spa": true,
+            "wifi": true,
+            "parking": true,
+            "restaurant": true
+        },
+        {
+            "id": "HTL2",
+            "name": "Taj Mahal Palace",
+            "location": "Mumbai, India",
+            "price": 200,
+            "rating": 4.7,
+            "availableRooms": 80,
+            "rooms": 150,
+            "bathrooms": 200,
+            "swimmingPool": true,
+            "gym": true,
+            "spa": true,
+            "wifi": true,
+            "parking": true
+        },
+        {
+            "id": "HTL3",
+            "name": "Eiffel Tower Suites",
+            "location": "Paris, France",
+            "price": 300,
+            "rating": 4.9,
+            "availableRooms": 100,
+            "rooms": 200,
+            "bathrooms": 250,
+            "swimmingPool": true,
+            "gym": true,
+            "spa": true,
+            "wifi": true,
+            "parking": true
+        },
+        {
+            "id": "HTL4",
+            "name": "Grand Hyatt Tokyo",
+            "location": "Tokyo, Japan",
+            "price": 250,
+            "rating": 4.8,
+            "availableRooms": 60,
+            "rooms": 120,
+            "bathrooms": 150,
+            "swimmingPool": true,
+            "gym": true,
+            "spa": true,
+            "wifi": true,
+            "parking": true
+        },
+        {
+            "id": "HTL5",
+            "name": "Marina Bay Sands",
+            "location": "Singapore",
+            "price": 400,
+            "rating": 4.9,
+            "availableRooms": 150,
+            "rooms": 300,
+            "bathrooms": 350,
+            "swimmingPool": true,
+            "gym": true,
+            "spa": true,
+            "wifi": true,
+            "parking": true
+        },
+        {
+            "id": "HTL6",
+            "name": "Burj Al Arab Jumeirah",
+            "location": "Dubai, UAE",
+            "price": 600,
+            "rating": 5.0,
+            "availableRooms": 80,
+            "rooms": 160,
+            "bathrooms": 200,
+            "swimmingPool": true,
+            "gym": true,
+            "spa": true,
+            "wifi": true,
+            "parking": true
+        },
+        {
+            "id": "HTL7",
+            "name": "Plaza Hotel",
+            "location": "New York City, USA",
+            "price": 350,
+            "rating": 4.8,
+            "availableRooms": 120,
+            "rooms": 240,
+            "bathrooms": 300,
+            "swimmingPool": true,
+            "gym": true,
+            "spa": true,
+            "wifi": true,
+            "parking": true
+        },
+        {
+            "id": "HTL8",
+            "name": "Ritz-Carlton",
+            "location": "London, UK",
+            "price": 300,
+            "rating": 4.7,
+            "availableRooms": 100,
+            "rooms": 200,
+            "bathrooms": 250,
+            "swimmingPool": true,
+            "gym": true,
+            "spa": true,
+            "wifi": true,
+            "parking": true
+        },
+        {
+            "id": "HTL9",
+            "name": "Hotel de Crillon",
+            "location": "Paris, France",
+            "price": 500,
+            "rating": 4.9,
+            "availableRooms": 150,
+            "rooms": 300,
+            "bathrooms": 350,
+            "swimmingPool": true,
+            "gym": true,
+            "spa": true,
+            "wifi": true,
+            "parking": true
+        },
+        {
+            "id": "HTL10",
+            "name": "The Oberoi Udaivilas",
+            "location": "Udaipur, India",
+            "price": 450,
+            "rating": 4.8,
+            "availableRooms": 80,
+            "rooms": 160,
+            "bathrooms": 200,
+            "swimmingPool": true,
+            "gym": true,
+            "spa": false,
+            "wifi": true,
+            "parking": true
+        },
+        {
+            "id": "HTL11",
+            "name": "Hotel Everest View",
+            "location": "Sagarmatha National Park, Nepal",
+            "price": 200,
+            "rating": 4.6,
+            "availableRooms": 50,
+            "rooms": 100,
+            "bathrooms": 150,
+            "swimmingPool": false,
+            "gym": true,
+            "spa": false,
+            "wifi": true,
+            "parking": true
+        },
+        {
+            "id": "HTL12",
+            "name": "Hotel Adlon Kempinski",
+            "location": "Berlin, Germany",
+            "price": 400,
+            "rating": 4.9,
+            "availableRooms": 100,
+            "rooms": 200,
+            "bathrooms": 250,
+            "swimmingPool": true,
+            "gym": true,
+            "spa": true,
+            "wifi": true,
+            "parking": true
+        },
+        {
+            "id": "HTL13",
+            "name": "Atlantis The Palm",
+            "location": "Dubai, UAE",
+            "price": 550,
+            "rating": 4.8,
+            "availableRooms": 150,
+            "rooms": 300,
+            "bathrooms": 350,
+            "swimmingPool": true,
+            "gym": true,
+            "spa": true,
+            "wifi": true,
+            "parking": true
+        },
+        {
+            "id": "HTL14",
+            "name": "Mandarin Oriental",
+            "location": "Bangkok, Thailand",
+            "price": 300,
+            "rating": 4.7,
+            "availableRooms": 90,
+            "rooms": 180,
+            "bathrooms": 200,
+            "swimmingPool": true,
+            "gym": false,
+            "spa": true,
+            "wifi": true,
+            "parking": true
+        },
+        {
+            "id": "HTL15",
+            "name": "Hotel Eden",
+            "location": "Rome, Italy",
+            "price": 350,
+            "rating": 4.6,
+            "availableRooms": 120,
+            "rooms": 240,
+            "bathrooms": 300,
+            "swimmingPool": true,
+            "gym": true,
+            "spa": true,
+            "wifi": true,
+            "parking": true
+        },
+        {
+            "id": "HTL16",
+            "name": "Waldorf Astoria",
+            "location": "New York City, USA",
+            "price": 400,
+            "rating": 4.8,
+            "availableRooms": 130,
+            "rooms": 260,
+            "bathrooms": 320,
+            "swimmingPool": true,
+            "gym": true,
+            "spa": true,
+            "wifi": true,
+            "parking": true
+        },
+        {
+            "id": "HTL17",
+            "name": "Raffles Hotel",
+            "location": "Singapore",
+            "price": 500,
+            "rating": 4.9,
+            "availableRooms": 140,
+            "rooms": 280,
+            "bathrooms": 350,
+            "swimmingPool": true,
+            "gym": true,
+            "spa": true,
+            "wifi": true,
+            "parking": true
+        },
+        {
+            "id": "HTL18",
+            "name": "The Peninsula",
+            "location": "Hong Kong",
+            "price": 450,
+            "rating": 4.8,
+            "availableRooms": 110,
+            "rooms": 220,
+            "bathrooms": 250,
+            "swimmingPool": true,
+            "gym": true,
+            "spa": false,
+            "wifi": true,
+            "parking": true
+        },
+        {
+            "id": "HTL19",
+            "name": "The Langham",
+            "location": "Sydney, Australia",
+            "price": 300,
+            "rating": 4.7,
+            "availableRooms": 100,
+            "rooms": 200,
+            "bathrooms": 230,
+            "swimmingPool": true,
+            "gym": false,
+            "spa": false,
+            "wifi": true,
+            "parking": true
+        },
+        {
+            "id": "HTL20",
+            "name": "Fairmont Banff Springs",
+            "location": "Banff, Canada",
+            "price": 350,
+            "rating": 4.8,
+            "availableRooms": 120,
+            "rooms": 240,
+            "bathrooms": 300,
+            "swimmingPool": true,
+            "gym": true,
+            "spa": true,
+            "wifi": true,
+            "parking": true
+        },
+        {
+            "id": "HTL21",
+            "name": "The Plaza",
+            "location": "New York City, USA",
+            "price": 400,
+            "rating": 4.9,
+            "availableRooms": 130,
+            "rooms": 260,
+            "bathrooms": 320,
+            "swimmingPool": true,
+            "gym": true,
+            "spa": true,
+            "wifi": true,
+            "parking": true
+        },
+        {
+            "id": "HTL22",
+            "name": "Hotel Majestic",
+            "location": "Barcelona, Spain",
+            "price": 300,
+            "rating": 4.8,
+            "availableRooms": 100,
+            "rooms": 200,
+            "bathrooms": 230,
+            "swimmingPool": true,
+            "gym": true,
+            "spa": true,
+            "wifi": true,
+            "parking": true
+        },
+        {
+            "id": "HTL23",
+            "name": "Raffles Hotel Le Royal",
+            "location": "Phnom Penh, Cambodia",
+            "price": 350,
+            "rating": 4.7,
+            "availableRooms": 90,
+            "rooms": 180,
+            "bathrooms": 200,
+            "swimmingPool": true,
+            "gym": true,
+            "spa": true,
+            "wifi": true,
+            "parking": true
+        },
+        {
+            "id": "HTL24",
+            "name": "Four Seasons Hotel George V",
+            "location": "Paris, France",
+            "price": 500,
+            "rating": 4.9,
+            "availableRooms": 150,
+            "rooms": 300,
+            "bathrooms": 350,
+            "swimmingPool": true,
+            "gym": true,
+            "spa": true,
+            "wifi": true,
+            "parking": true
+        },
+        {
+            "id": "HTL25",
+            "name": "Hotel Beau-Rivage Palace",
+            "location": "Lausanne, Switzerland",
+            "price": 450,
+            "rating": 4.8,
+            "availableRooms": 80,
+            "rooms": 160,
+            "bathrooms": 200,
+            "swimmingPool": true,
+            "gym": false,
+            "spa": false,
+            "wifi": true,
+            "parking": true
+        }
+    ],
+    "packages": [
+        {
+            "id": "PKG1",
+            "name": "Himalayan Adventure",
+            "destination": "Nepal",
+            "duration": 7,
+            "price": 1500,
+            "activities": [
+                "Trekking",
+                "Rafting",
+                "Sightseeing"
+            ],
+            "accommodation": {
+                "hotel": "Himalayan Paradise Resort",
+                "nights": 5
+            }
+        },
+        {
+            "id": "PKG2",
+            "name": "Golden Triangle Tour",
+            "destination": "India",
+            "duration": 6,
+            "price": 1800,
+            "activities": [
+                "Visit to Taj Mahal",
+                "Exploring Delhi",
+                "Safari"
+            ],
+            "accommodation": {
+                "hotel": "Taj Mahal Palace",
+                "nights": 4
+            }
+        },
+        {
+            "id": "PKG3",
+            "name": "European Splendor",
+            "destination": "Europe",
+            "duration": 10,
+            "price": 3000,
+            "activities": [
+                "Exploring Paris",
+                "Sightseeing in Rome",
+                "Cruise in Amsterdam"
+            ],
+            "accommodation": {
+                "hotel": "Eiffel Tower Suites",
+                "nights": 7
+            }
+        },
+        {
+            "id": "PKG4",
+            "name": "Tokyo Experience",
+            "destination": "Japan",
+            "duration": 5,
+            "price": 2500,
+            "activities": [
+                "Visit to Tokyo Disneyland",
+                "Shopping in Ginza",
+                "Sumo Wrestling Match"
+            ],
+            "accommodation": {
+                "hotel": "Grand Hyatt Tokyo",
+                "nights": 3
+            }
+        },
+        {
+            "id": "PKG5",
+            "name": "Singapore Delights",
+            "destination": "Singapore",
+            "duration": 4,
+            "price": 2000,
+            "activities": [
+                "Universal Studios",
+                "Night Safari",
+                "Sentosa Island Tour"
+            ],
+            "accommodation": {
+                "hotel": "Marina Bay Sands",
+                "nights": 3
+            }
+        },
+        {
+            "id": "PKG6",
+            "name": "Dubai Extravaganza",
+            "destination": "UAE",
+            "duration": 7,
+            "price": 3500,
+            "activities": [
+                "Burj Khalifa Tour",
+                "Desert Safari",
+                "Dhow Cruise Dinner"
+            ],
+            "accommodation": {
+                "hotel": "Burj Al Arab Jumeirah",
+                "nights": 5
+            }
+        },
+        {
+            "id": "PKG7",
+            "name": "New York City Escape",
+            "destination": "USA",
+            "duration": 5,
+            "price": 2800,
+            "activities": [
+                "Exploring Times Square",
+                "Statue of Liberty Tour",
+                "Broadway Show"
+            ],
+            "accommodation": {
+                "hotel": "Plaza Hotel",
+                "nights": 4
+            }
+        },
+        {
+            "id": "PKG8",
+            "name": "London Experience",
+            "destination": "UK",
+            "duration": 6,
+            "price": 2200,
+            "activities": [
+                "London Eye",
+                "British Museum",
+                "West End Theatre Show"
+            ],
+            "accommodation": {
+                "hotel": "Ritz-Carlton",
+                "nights": 4
+            }
+        },
+        {
+            "id": "PKG9",
+            "name": "Paris Romance",
+            "destination": "France",
+            "duration": 5,
+            "price": 2800,
+            "activities": [
+                "Eiffel Tower Dinner",
+                "Louvre Museum",
+                "Seine River Cruise"
+            ],
+            "accommodation": {
+                "hotel": "Hotel de Crillon",
+                "nights": 3
+            }
+        },
+        {
+            "id": "PKG10",
+            "name": "Taj Mahal Tour",
+            "destination": "India",
+            "duration": 3,
+            "price": 1200,
+            "activities": [
+                "Visit to Taj Mahal",
+                "Agra Fort",
+                "Fatehpur Sikri"
+            ],
+            "accommodation": {
+                "hotel": "The Oberoi Udaivilas",
+                "nights": 2
+            }
+        },
+        {
+            "id": "PKG11",
+            "name": "Everest Base Camp Trek",
+            "destination": "Nepal",
+            "duration": 14,
+            "price": 2800,
+            "activities": [
+                "Trek to Everest Base Camp",
+                "Exploring Namche Bazaar",
+                "Panoramic Views"
+            ],
+            "accommodation": {
+                "hotel": "Hotel Everest View",
+                "nights": 10
+            }
+        },
+        {
+            "id": "PKG12",
+            "name": "German Adventure",
+            "destination": "Germany",
+            "duration": 8,
+            "price": 3200,
+            "activities": [
+                "Exploring Berlin",
+                "Cycling in Black Forest",
+                "Rhine River Cruise"
+            ],
+            "accommodation": {
+                "hotel": "Hotel Adlon Kempinski",
+                "nights": 6
+            }
+        },
+        {
+            "id": "PKG13",
+            "name": "Dubai Luxury Retreat",
+            "destination": "UAE",
+            "duration": 5,
+            "price": 4500,
+            "activities": [
+                "Spa Day at Atlantis The Palm",
+                "Shopping at Dubai Mall",
+                "Private Yacht Tour"
+            ],
+            "accommodation": {
+                "hotel": "Atlantis The Palm",
+                "nights": 4
+            }
+        },
+        {
+            "id": "PKG14",
+            "name": "Bangkok Getaway",
+            "destination": "Thailand",
+            "duration": 4,
+            "price": 1800,
+            "activities": [
+                "Grand Palace",
+                "Floating Market Tour",
+                "Thai Massage"
+            ],
+            "accommodation": {
+                "hotel": "Mandarin Oriental",
+                "nights": 3
+            }
+        },
+        {
+            "id": "PKG15",
+            "name": "Roman Holiday",
+            "destination": "Italy",
+            "duration": 6,
+            "price": 2500,
+            "activities": [
+                "Colosseum Tour",
+                "Vatican City",
+                "Italian Cuisine Cooking Class"
+            ],
+            "accommodation": {
+                "hotel": "Hotel Eden",
+                "nights": 4
+            }
+        },
+        {
+            "id": "PKG16",
+            "name": "New York City Discovery",
+            "destination": "USA",
+            "duration": 7,
+            "price": 3200,
+            "activities": [
+                "Central Park",
+                "Museum of Modern Art",
+                "Helicopter Tour"
+            ],
+            "accommodation": {
+                "hotel": "Waldorf Astoria",
+                "nights": 5
+            }
+        },
+        {
+            "id": "PKG17",
+            "name": "Singapore Adventure",
+            "destination": "Singapore",
+            "duration": 5,
+            "price": 2300,
+            "activities": [
+                "Singapore Zoo",
+                "Gardens by the Bay",
+                "Night Safari"
+            ],
+            "accommodation": {
+                "hotel": "Raffles Hotel",
+                "nights": 4
+            }
+        },
+        {
+            "id": "PKG18",
+            "name": "Hong Kong Exploration",
+            "destination": "Hong Kong",
+            "duration": 6,
+            "price": 2700,
+            "activities": [
+                "Victoria Peak",
+                "Disneyland",
+                "Lantau Island Tour"
+            ],
+            "accommodation": {
+                "hotel": "The Peninsula",
+                "nights": 4
+            }
+        },
+        {
+            "id": "PKG19",
+            "name": "Sydney Adventure",
+            "destination": "Australia",
+            "duration": 7,
+            "price": 3500,
+            "activities": [
+                "Sydney Opera House Tour",
+                "Bondi Beach",
+                "Blue Mountains"
+            ],
+            "accommodation": {
+                "hotel": "The Langham",
+                "nights": 5
+            }
+        },
+        {
+            "id": "PKG20",
+            "name": "Canadian Rockies Escape",
+            "destination": "Canada",
+            "duration": 8,
+            "price": 3800,
+            "activities": [
+                "Banff National Park",
+                "Jasper National Park",
+                "Icefields Parkway"
+            ],
+            "accommodation": {
+                "hotel": "Fairmont Banff Springs",
+                "nights": 6
+            }
+        },
+        {
+            "id": "PKG21",
+            "name": "Big Apple Experience",
+            "destination": "USA",
+            "duration": 6,
+            "price": 3000,
+            "activities": [
+                "Broadway Shows",
+                "Empire State Building",
+                "Central Park"
+            ],
+            "accommodation": {
+                "hotel": "The Plaza",
+                "nights": 4
+            }
+        },
+        {
+            "id": "PKG22",
+            "name": "Barcelona Getaway",
+            "destination": "Spain",
+            "duration": 5,
+            "price": 2500,
+            "activities": [
+                "Sagrada Familia",
+                "Park Güell",
+                "Gothic Quarter"
+            ],
+            "accommodation": {
+                "hotel": "Hotel Majestic",
+                "nights": 3
+            }
+        },
+        {
+            "id": "PKG23",
+            "name": "Cambodia Adventure",
+            "destination": "Cambodia",
+            "duration": 6,
+            "price": 2000,
+            "activities": [
+                "Angkor Wat",
+                "Tonlé Sap Lake",
+                "Royal Palace"
+            ],
+            "accommodation": {
+                "hotel": "Raffles Hotel Le Royal",
+                "nights": 4
+            }
+        },
+        {
+            "id": "PKG24",
+            "name": "Parisian Luxury",
+            "destination": "France",
+            "duration": 7,
+            "price": 4000,
+            "activities": [
+                "Luxury Shopping",
+                "Michelin Star Dining",
+                "Cruise on Seine"
+            ],
+            "accommodation": {
+                "hotel": "Four Seasons Hotel George V",
+                "nights": 5
+            }
+        },
+        {
+            "id": "PKG25",
+            "name": "Swiss Alps Retreat",
+            "destination": "Switzerland",
+            "duration": 9,
+            "price": 4200,
+            "activities": [
+                "Jungfraujoch",
+                "Lake Geneva",
+                "Zermatt"
+            ],
+            "accommodation": {
+                "hotel": "Hotel Beau-Rivage Palace",
+                "nights": 7
+            }
+        }
+    ],
+    "buses": [
+        {
+            "id": "BUS1",
+            "route": "Kathmandu to Pokhara",
+            "departureTime": "2024-02-21T08:00:00",
+            "arrivalTime": "2024-02-21T14:00:00",
+            "price": 20,
+            "availableSeats": 40
+        },
+        {
+            "id": "BUS2",
+            "route": "Delhi to Jaipur",
+            "departureTime": "2024-02-21T09:00:00",
+            "arrivalTime": "2024-02-21T13:00:00",
+            "price": 25,
+            "availableSeats": 40
+        },
+        {
+            "id": "BUS3",
+            "route": "Paris to Lyon",
+            "departureTime": "2024-02-21T10:00:00",
+            "arrivalTime": "2024-02-21T13:30:00",
+            "price": 30,
+            "availableSeats": 35
+        },
+        {
+            "id": "BUS4",
+            "route": "Tokyo to Osaka",
+            "departureTime": "2024-02-21T08:30:00",
+            "arrivalTime": "2024-02-21T14:30:00",
+            "price": 40,
+            "availableSeats": 45
+        },
+        {
+            "id": "BUS5",
+            "route": "Singapore to Kuala Lumpur",
+            "departureTime": "2024-02-21T09:30:00",
+            "arrivalTime": "2024-02-21T13:30:00",
+            "price": 35,
+            "availableSeats": 50
+        },
+        {
+            "id": "BUS6",
+            "route": "Dubai to Abu Dhabi",
+            "departureTime": "2024-02-21T07:00:00",
+            "arrivalTime": "2024-02-21T09:00:00",
+            "price": 30,
+            "availableSeats": 30
+        },
+        {
+            "id": "BUS7",
+            "route": "New York to Washington D.C.",
+            "departureTime": "2024-02-21T08:00:00",
+            "arrivalTime": "2024-02-21T12:00:00",
+            "price": 45,
+            "availableSeats": 35
+        },
+        {
+            "id": "BUS8",
+            "route": "London to Edinburgh",
+            "departureTime": "2024-02-21T10:30:00",
+            "arrivalTime": "2024-02-21T15:30:00",
+            "price": 50,
+            "availableSeats": 40
+        },
+        {
+            "id": "BUS9",
+            "route": "Berlin to Munich",
+            "departureTime": "2024-02-21T11:00:00",
+            "arrivalTime": "2024-02-21T15:00:00",
+            "price": 35,
+            "availableSeats": 45
+        },
+        {
+            "id": "BUS10",
+            "route": "Rome to Florence",
+            "departureTime": "2024-02-21T09:00:00",
+            "arrivalTime": "2024-02-21T12:00:00",
+            "price": 25,
+            "availableSeats": 50
+        },
+        {
+            "id": "BUS11",
+            "route": "Sydney to Melbourne",
+            "departureTime": "2024-02-21T08:30:00",
+            "arrivalTime": "2024-02-21T13:00:00",
+            "price": 30,
+            "availableSeats": 40
+        },
+        {
+            "id": "BUS12",
+            "route": "Bangkok to Chiang Mai",
+            "departureTime": "2024-02-21T10:00:00",
+            "arrivalTime": "2024-02-21T14:30:00",
+            "price": 40,
+            "availableSeats": 35
+        },
+        {
+            "id": "BUS13",
+            "route": "Hong Kong to Macau",
+            "departureTime": "2024-02-21T09:30:00",
+            "arrivalTime": "2024-02-21T11:30:00",
+            "price": 25,
+            "availableSeats": 45
+        },
+        {
+            "id": "BUS14",
+            "route": "Toronto to Montreal",
+            "departureTime": "2024-02-21T11:00:00",
+            "arrivalTime": "2024-02-21T15:00:00",
+            "price": 35,
+            "availableSeats": 50
+        },
+        {
+            "id": "BUS15",
+            "route": "Los Angeles to San Francisco",
+            "departureTime": "2024-02-21T08:00:00",
+            "arrivalTime": "2024-02-21T12:00:00",
+            "price": 40,
+            "availableSeats": 40
+        },
+        {
+            "id": "BUS16",
+            "route": "Madrid to Barcelona",
+            "departureTime": "2024-02-21T10:30:00",
+            "arrivalTime": "2024-02-21T13:30:00",
+            "price": 30,
+            "availableSeats": 35
+        },
+        {
+            "id": "BUS17",
+            "route": "Vienna to Salzburg",
+            "departureTime": "2024-02-21T11:00:00",
+            "arrivalTime": "2024-02-21T15:00:00",
+            "price": 35,
+            "availableSeats": 45
+        },
+        {
+            "id": "BUS18",
+            "route": "Cairo to Alexandria",
+            "departureTime": "2024-02-21T09:00:00",
+            "arrivalTime": "2024-02-21T11:00:00",
+            "price": 30,
+            "availableSeats": 50
+        },
+        {
+            "id": "BUS19",
+            "route": "Moscow to St. Petersburg",
+            "departureTime": "2024-02-21T10:00:00",
+            "arrivalTime": "2024-02-21T14:00:00",
+            "price": 40,
+            "availableSeats": 40
+        },
+        {
+            "id": "BUS20",
+            "route": "Seoul to Busan",
+            "departureTime": "2024-02-21T09:30:00",
+            "arrivalTime": "2024-02-21T13:30:00",
+            "price": 45,
+            "availableSeats": 35
+        },
+        {
+            "id": "BUS21",
+            "route": "Mexico City to Cancun",
+            "departureTime": "2024-02-21T08:00:00",
+            "arrivalTime": "2024-02-21T13:00:00",
+            "price": 50,
+            "availableSeats": 40
+        },
+        {
+            "id": "BUS22",
+            "route": "Buenos Aires to Santiago",
+            "departureTime": "2024-02-21T10:00:00",
+            "arrivalTime": "2024-02-21T14:30:00",
+            "price": 55,
+            "availableSeats": 45
+        },
+        {
+            "id": "BUS23",
+            "route": "Rio de Janeiro to São Paulo",
+            "departureTime": "2024-02-21T09:30:00",
+            "arrivalTime": "2024-02-21T13:30:00",
+            "price": 60,
+            "availableSeats": 50
+        },
+        {
+            "id": "BUS24",
+            "route": "Cape Town to Johannesburg",
+            "departureTime": "2024-02-21T10:30:00",
+            "arrivalTime": "2024-02-21T15:30:00",
+            "price": 65,
+            "availableSeats": 40
+        },
+        {
+            "id": "BUS25",
+            "route": "Perth to Sydney",
+            "departureTime": "2024-02-21T08:00:00",
+            "arrivalTime": "2024-02-21T14:00:00",
+            "price": 70,
+            "availableSeats": 45
+        }
+    ],
+    "trains": [
+        {
+            "id": "TRN1",
+            "route": "New Delhi to Mumbai",
+            "departureTime": "2024-02-21T08:00:00",
+            "arrivalTime": "2024-02-21T20:00:00",
+            "price": 50,
+            "availableSeats": 200
+        },
+        {
+            "id": "TRN2",
+            "route": "London to Edinburgh",
+            "departureTime": "2024-02-21T09:00:00",
+            "arrivalTime": "2024-02-21T13:00:00",
+            "price": 40,
+            "availableSeats": 150
+        },
+        {
+            "id": "TRN3",
+            "route": "Paris to Lyon",
+            "departureTime": "2024-02-21T10:00:00",
+            "arrivalTime": "2024-02-21T12:30:00",
+            "price": 35,
+            "availableSeats": 180
+        },
+        {
+            "id": "TRN4",
+            "route": "Tokyo to Osaka",
+            "departureTime": "2024-02-21T08:30:00",
+            "arrivalTime": "2024-02-21T13:30:00",
+            "price": 60,
+            "availableSeats": 220
+        },
+        {
+            "id": "TRN5",
+            "route": "Berlin to Munich",
+            "departureTime": "2024-02-21T09:30:00",
+            "arrivalTime": "2024-02-21T12:30:00",
+            "price": 45,
+            "availableSeats": 170
+        },
+        {
+            "id": "TRN6",
+            "route": "Sydney to Melbourne",
+            "departureTime": "2024-02-21T08:00:00",
+            "arrivalTime": "2024-02-21T14:00:00",
+            "price": 55,
+            "availableSeats": 190
+        },
+        {
+            "id": "TRN7",
+            "route": "New York to Washington D.C.",
+            "departureTime": "2024-02-21T07:30:00",
+            "arrivalTime": "2024-02-21T12:30:00",
+            "price": 70,
+            "availableSeats": 210
+        },
+        {
+            "id": "TRN8",
+            "route": "Rome to Florence",
+            "departureTime": "2024-02-21T10:30:00",
+            "arrivalTime": "2024-02-21T13:30:00",
+            "price": 30,
+            "availableSeats": 160
+        },
+        {
+            "id": "TRN9",
+            "route": "Hong Kong to Beijing",
+            "departureTime": "2024-02-21T11:00:00",
+            "arrivalTime": "2024-02-21T17:00:00",
+            "price": 80,
+            "availableSeats": 250
+        },
+        {
+            "id": "TRN10",
+            "route": "Seoul to Busan",
+            "departureTime": "2024-02-21T09:00:00",
+            "arrivalTime": "2024-02-21T13:00:00",
+            "price": 70,
+            "availableSeats": 200
+        },
+        {
+            "id": "TRN11",
+            "route": "Bangkok to Chiang Mai",
+            "departureTime": "2024-02-21T10:00:00",
+            "arrivalTime": "2024-02-21T15:00:00",
+            "price": 65,
+            "availableSeats": 180
+        },
+        {
+            "id": "TRN12",
+            "route": "Cairo to Alexandria",
+            "departureTime": "2024-02-21T08:30:00",
+            "arrivalTime": "2024-02-21T11:30:00",
+            "price": 55,
+            "availableSeats": 190
+        },
+        {
+            "id": "TRN13",
+            "route": "Toronto to Montreal",
+            "departureTime": "2024-02-21T11:30:00",
+            "arrivalTime": "2024-02-21T15:30:00",
+            "price": 75,
+            "availableSeats": 220
+        },
+        {
+            "id": "TRN14",
+            "route": "Los Angeles to San Francisco",
+            "departureTime": "2024-02-21T10:00:00",
+            "arrivalTime": "2024-02-21T14:00:00",
+            "price": 65,
+            "availableSeats": 200
+        },
+        {
+            "id": "TRN15",
+            "route": "Madrid to Barcelona",
+            "departureTime": "2024-02-21T09:30:00",
+            "arrivalTime": "2024-02-21T12:30:00",
+            "price": 50,
+            "availableSeats": 180
+        },
+        {
+            "id": "TRN16",
+            "route": "Vienna to Salzburg",
+            "departureTime": "2024-02-21T08:00:00",
+            "arrivalTime": "2024-02-21T12:00:00",
+            "price": 40,
+            "availableSeats": 150
+        },
+        {
+            "id": "TRN17",
+            "route": "Moscow to St. Petersburg",
+            "departureTime": "2024-02-21T09:00:00",
+            "arrivalTime": "2024-02-21T13:00:00",
+            "price": 60,
+            "availableSeats": 190
+        },
+        {
+            "id": "TRN18",
+            "route": "Mexico City to Cancun",
+            "departureTime": "2024-02-21T10:30:00",
+            "arrivalTime": "2024-02-21T15:30:00",
+            "price": 70,
+            "availableSeats": 200
+        },
+        {
+            "id": "TRN19",
+            "route": "Buenos Aires to Santiago",
+            "departureTime": "2024-02-21T11:00:00",
+            "arrivalTime": "2024-02-21T17:00:00",
+            "price": 85,
+            "availableSeats": 230
+        },
+        {
+            "id": "TRN20",
+            "route": "Rio de Janeiro to São Paulo",
+            "departureTime": "2024-02-21T08:00:00",
+            "arrivalTime": "2024-02-21T12:00:00",
+            "price": 75,
+            "availableSeats": 210
+        },
+        {
+            "id": "TRN21",
+            "route": "Cape Town to Johannesburg",
+            "departureTime": "2024-02-21T09:00:00",
+            "arrivalTime": "2024-02-21T14:00:00",
+            "price": 90,
+            "availableSeats": 240
+        },
+        {
+            "id": "TRN22",
+            "route": "Perth to Sydney",
+            "departureTime": "2024-02-21T10:30:00",
+            "arrivalTime": "2024-02-21T15:30:00",
+            "price": 80,
+            "availableSeats": 220
+        },
+        {
+            "id": "TRN23",
+            "route": "Amsterdam to Rotterdam",
+            "departureTime": "2024-02-21T11:00:00",
+            "arrivalTime": "2024-02-21T13:30:00",
+            "price": 45,
+            "availableSeats": 180
+        },
+        {
+            "id": "TRN24",
+            "route": "Florence to Venice",
+            "departureTime": "2024-02-21T09:30:00",
+            "arrivalTime": "2024-02-21T12:30:00",
+            "price": 35,
+            "availableSeats": 170
+        },
+        {
+            "id": "TRN25",
+            "route": "Bangalore to Chennai",
+            "departureTime": "2024-02-21T08:00:00",
+            "arrivalTime": "2024-02-21T13:00:00",
+            "price": 40,
+            "availableSeats": 190
+        }
+    ],
+    "cabs": [
+        {
+            "id": "CAB1",
+            "type": "Sedan",
+            "pricePerKm": 1.5,
+            "availableSeats": 4
+        },
+        {
+            "id": "CAB2",
+            "type": "SUV",
+            "pricePerKm": 2.0,
+            "availableSeats": 6
+        },
+        {
+            "id": "CAB3",
+            "type": "Hatchback",
+            "pricePerKm": 1.2,
+            "availableSeats": 4
+        },
+        {
+            "id": "CAB4",
+            "type": "Luxury",
+            "pricePerKm": 3.0,
+            "availableSeats": 4
+        },
+        {
+            "id": "CAB5",
+            "type": "Van",
+            "pricePerKm": 2.5,
+            "availableSeats": 8
+        },
+        {
+            "id": "CAB6",
+            "type": "Minibus",
+            "pricePerKm": 3.5,
+            "availableSeats": 12
+        },
+        {
+            "id": "CAB7",
+            "type": "Convertible",
+            "pricePerKm": 4.0,
+            "availableSeats": 2
+        },
+        {
+            "id": "CAB8",
+            "type": "Limousine",
+            "pricePerKm": 5.0,
+            "availableSeats": 8
+        },
+        {
+            "id": "CAB9",
+            "type": "Electric",
+            "pricePerKm": 1.8,
+            "availableSeats": 4
+        },
+        {
+            "id": "CAB10",
+            "type": "Classic",
+            "pricePerKm": 2.5,
+            "availableSeats": 2
+        },
+        {
+            "id": "CAB11",
+            "type": "Ride Sharing",
+            "pricePerKm": 1.0,
+            "availableSeats": 4
+        },
+        {
+            "id": "CAB12",
+            "type": "Bike Taxi",
+            "pricePerKm": 0.8,
+            "availableSeats": 2
+        },
+        {
+            "id": "CAB13",
+            "type": "Helicopter Taxi",
+            "pricePerKm": 10.0,
+            "availableSeats": 6
+        },
+        {
+            "id": "CAB14",
+            "type": "Self-Driving",
+            "pricePerKm": 2.0,
+            "availableSeats": 4
+        },
+        {
+            "id": "CAB15",
+            "type": "Vintage",
+            "pricePerKm": 3.5,
+            "availableSeats": 2
+        },
+        {
+            "id": "CAB16",
+            "type": "Party Bus",
+            "pricePerKm": 4.5,
+            "availableSeats": 20
+        },
+        {
+            "id": "CAB17",
+            "type": "Jet Ski Taxi",
+            "pricePerKm": 8.0,
+            "availableSeats": 2
+        },
+        {
+            "id": "CAB18",
+            "type": "Tuk Tuk",
+            "pricePerKm": 1.0,
+            "availableSeats": 3
+        },
+        {
+            "id": "CAB19",
+            "type": "Tricycle Taxi",
+            "pricePerKm": 0.5,
+            "availableSeats": 2
+        },
+        {
+            "id": "CAB20",
+            "type": "Luxury Van",
+            "pricePerKm": 4.0,
+            "availableSeats": 10
+        },
+        {
+            "id": "CAB21",
+            "type": "Yacht Taxi",
+            "pricePerKm": 20.0,
+            "availableSeats": 8
+        },
+        {
+            "id": "CAB22",
+            "type": "Limousine SUV",
+            "pricePerKm": 6.0,
+            "availableSeats": 6
+        },
+        {
+            "id": "CAB23",
+            "type": "Hummer Limo",
+            "pricePerKm": 8.5,
+            "availableSeats": 10
+        },
+        {
+            "id": "CAB24",
+            "type": "Vintage Car",
+            "pricePerKm": 5.5,
+            "availableSeats": 4
+        },
+        {
+            "id": "CAB25",
+            "type": "Luxury Yacht",
+            "pricePerKm": 30.0,
+            "availableSeats": 12
+        }
+    ],
+    "homeStays": [
+        {
+            "id": "HST1",
+            "location": "Pokhara, Nepal",
+            "type": "Private Room",
+            "accommodation": 2,
+            "bathrooms": 1,
+            "price": 25,
+            "amenities": [
+                "Wifi",
+                "Breakfast",
+                "Parking"
+            ]
+        },
+        {
+            "id": "HST2",
+            "location": "Goa, India",
+            "type": "Entire Home/Apartment",
+            "accommodation": 4,
+            "bathrooms": 2,
+            "price": 50,
+            "amenities": [
+                "Wifi",
+                "Air Conditioning",
+                "Kitchen",
+                "Swimming Pool"
+            ]
+        },
+        {
+            "id": "HST3",
+            "location": "Kyoto, Japan",
+            "type": "Shared Room",
+            "accommodation": 4,
+            "bathrooms": 1,
+            "price": 30,
+            "amenities": [
+                "Wifi",
+                "Breakfast",
+                "Laundry"
+            ]
+        },
+        {
+            "id": "HST4",
+            "location": "Paris, France",
+            "type": "Entire Home/Apartment",
+            "accommodation": 3,
+            "bathrooms": 1,
+            "price": 70,
+            "amenities": [
+                "Wifi",
+                "Air Conditioning",
+                "Kitchen",
+                "Balcony"
+            ]
+        },
+        {
+            "id": "HST5",
+            "location": "Cape Town, South Africa",
+            "type": "Private Room",
+            "accommodation": 2,
+            "bathrooms": 1,
+            "price": 40,
+            "amenities": [
+                "Wifi",
+                "Breakfast",
+                "Garden"
+            ]
+        },
+        {
+            "id": "HST6",
+            "location": "New York City, USA",
+            "type": "Entire Home/Apartment",
+            "accommodation": 5,
+            "bathrooms": 2,
+            "price": 120,
+            "amenities": [
+                "Wifi",
+                "Air Conditioning",
+                "Kitchen",
+                "Terrace"
+            ]
+        },
+        {
+            "id": "HST7",
+            "location": "Barcelona, Spain",
+            "type": "Shared Room",
+            "accommodation": 3,
+            "bathrooms": 1,
+            "price": 25,
+            "amenities": [
+                "Wifi",
+                "Breakfast",
+                "Parking"
+            ]
+        },
+        {
+            "id": "HST8",
+            "location": "Sydney, Australia",
+            "type": "Entire Home/Apartment",
+            "accommodation": 4,
+            "bathrooms": 2,
+            "price": 90,
+            "amenities": [
+                "Wifi",
+                "Air Conditioning",
+                "Kitchen",
+                "Pool"
+            ]
+        },
+        {
+            "id": "HST9",
+            "location": "Bangkok, Thailand",
+            "type": "Private Room",
+            "accommodation": 2,
+            "bathrooms": 1,
+            "price": 35,
+            "amenities": [
+                "Wifi",
+                "Breakfast",
+                "Gym"
+            ]
+        },
+        {
+            "id": "HST10",
+            "location": "Rome, Italy",
+            "type": "Entire Home/Apartment",
+            "accommodation": 3,
+            "bathrooms": 1,
+            "price": 75,
+            "amenities": [
+                "Wifi",
+                "Air Conditioning",
+                "Kitchen",
+                "Elevator"
+            ]
+        },
+        {
+            "id": "HST11",
+            "location": "Rio de Janeiro, Brazil",
+            "type": "Shared Room",
+            "accommodation": 3,
+            "bathrooms": 1,
+            "price": 30,
+            "amenities": [
+                "Wifi",
+                "Breakfast",
+                "Laundry"
+            ]
+        },
+        {
+            "id": "HST12",
+            "location": "Seoul, South Korea",
+            "type": "Private Room",
+            "accommodation": 2,
+            "bathrooms": 1,
+            "price": 45,
+            "amenities": [
+                "Wifi",
+                "Breakfast",
+                "Parking"
+            ]
+        },
+        {
+            "id": "HST13",
+            "location": "Mexico City, Mexico",
+            "type": "Entire Home/Apartment",
+            "accommodation": 4,
+            "bathrooms": 2,
+            "price": 80,
+            "amenities": [
+                "Wifi",
+                "Air Conditioning",
+                "Kitchen",
+                "Terrace"
+            ]
+        },
+        {
+            "id": "HST14",
+            "location": "Berlin, Germany",
+            "type": "Shared Room",
+            "accommodation": 2,
+            "bathrooms": 1,
+            "price": 35,
+            "amenities": [
+                "Wifi",
+                "Breakfast",
+                "Garden"
+            ]
+        },
+        {
+            "id": "HST15",
+            "location": "Buenos Aires, Argentina",
+            "type": "Private Room",
+            "accommodation": 2,
+            "bathrooms": 1,
+            "price": 50,
+            "amenities": [
+                "Wifi",
+                "Breakfast",
+                "Pool"
+            ]
+        },
+        {
+            "id": "HST16",
+            "location": "Toronto, Canada",
+            "type": "Entire Home/Apartment",
+            "accommodation": 5,
+            "bathrooms": 2,
+            "price": 100,
+            "amenities": [
+                "Wifi",
+                "Air Conditioning",
+                "Kitchen",
+                "Parking"
+            ]
+        },
+        {
+            "id": "HST17",
+            "location": "Amsterdam, Netherlands",
+            "type": "Shared Room",
+            "accommodation": 3,
+            "bathrooms": 1,
+            "price": 40,
+            "amenities": [
+                "Wifi",
+                "Breakfast",
+                "Gym"
+            ]
+        },
+        {
+            "id": "HST18",
+            "location": "Bangalore, India",
+            "type": "Private Room",
+            "accommodation": 2,
+            "bathrooms": 1,
+            "price": 40,
+            "amenities": [
+                "Wifi",
+                "Breakfast",
+                "Kitchen"
+            ]
+        },
+        {
+            "id": "HST19",
+            "location": "Dubai, UAE",
+            "type": "Entire Home/Apartment",
+            "accommodation": 4,
+            "bathrooms": 2,
+            "price": 120,
+            "amenities": [
+                "Wifi",
+                "Air Conditioning",
+                "Pool"
+            ]
+        },
+        {
+            "id": "HST20",
+            "location": "Paris, France",
+            "type": "Shared Room",
+            "accommodation": 2,
+            "bathrooms": 1,
+            "price": 30,
+            "amenities": [
+                "Wifi",
+                "Breakfast",
+                "Laundry"
+            ]
+        },
+        {
+            "id": "HST21",
+            "location": "Cape Town, South Africa",
+            "type": "Private Room",
+            "accommodation": 2,
+            "bathrooms": 1,
+            "price": 45,
+            "amenities": [
+                "Wifi",
+                "Breakfast",
+                "Parking"
+            ]
+        },
+        {
+            "id": "HST22",
+            "location": "New York City, USA",
+            "type": "Entire Home/Apartment",
+            "accommodation": 6,
+            "bathrooms": 3,
+            "price": 180,
+            "amenities": [
+                "Wifi",
+                "Air Conditioning",
+                "Kitchen",
+                "Balcony"
+            ]
+        },
+        {
+            "id": "HST23",
+            "location": "Barcelona, Spain",
+            "type": "Shared Room",
+            "accommodation": 4,
+            "bathrooms": 2,
+            "price": 35,
+            "amenities": [
+                "Wifi",
+                "Breakfast",
+                "Garden"
+            ]
+        },
+        {
+            "id": "HST24",
+            "location": "Sydney, Australia",
+            "type": "Private Room",
+            "accommodation": 3,
+            "bathrooms": 1,
+            "price": 55,
+            "amenities": [
+                "Wifi",
+                "Breakfast",
+                "Pool"
+            ]
+        },
+        {
+            "id": "HST25",
+            "location": "Bangkok, Thailand",
+            "type": "Entire Home/Apartment",
+            "accommodation": 5,
+            "bathrooms": 2,
+            "price": 100,
+            "amenities": [
+                "Wifi",
+                "Air Conditioning",
+                "Kitchen",
+                "Gym"
+            ]
+        }
+    ]
+}
