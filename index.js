@@ -1,8 +1,10 @@
-const express = require('express');
+// THIS IS INDEX.JS FILE OF THE SERVER 
 
+const express = require('express');
+const cors = require('cors');
 
 const app = express();
-
+app.use(cors())
 const port = 5000
 const product_route = require("./routes/tourr")
 app.get('/', (req, res) => {

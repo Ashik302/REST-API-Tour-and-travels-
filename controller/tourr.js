@@ -1,3 +1,5 @@
+// THIS IS THE MAIN FILE TOURR.JS
+
 const tour = require('../tour.json')
 
 const getAllTour = async (req, res) => {
